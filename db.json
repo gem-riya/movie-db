@@ -2,6 +2,7 @@
   "movies": [
     {
       "title": "The Shawshank Redemption",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
       "year": 1994,
       "director": "Frank Darabont",
       "genre": ["Drama"],
